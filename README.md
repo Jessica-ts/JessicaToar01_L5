@@ -1,0 +1,2 @@
+<h1>Laboratorio 5 YouTube App</h1>
+<p>En este laboratorio se trabajó con el API de YouTube para crear una aplicación web de búsqueda de videos de YouTube. Para lograr su fucionamiento se utilizaron las técnicas de AJAX.</p>
